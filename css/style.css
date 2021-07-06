@@ -404,7 +404,7 @@
 .footer__menu {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(50px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(70px, auto));
   margin-bottom: 20px;
   margin-top: 20px;
   margin: 25px 0;
@@ -441,10 +441,6 @@
 
   .footer__menu {
     justify-self: stretch;
-  }
-
-  .footer__menu li {
-    padding: 0 20px;
   }
 
   .footer p {
